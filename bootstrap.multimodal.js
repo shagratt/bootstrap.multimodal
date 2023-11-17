@@ -1,3 +1,4 @@
+//Shagratt's Bootstrap Multimodal
 //Ajusta el z-index del backdrop de los modales/offcanvas un nivel detras del elemento
 function fixBackdrop(id) {
     let o=document.getElementById(id);
